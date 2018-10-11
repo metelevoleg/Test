@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="slick">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../slick/lib/lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../slick/lib/jinput.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../slick/lib/jnlp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../slick/lib/ibxm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../slick/lib/lwjgl_util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../slick/lib/slick-examples.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../slick/lib/slick.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../slick/lib/tinylinepp.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../slick/javadoc" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/../slick/dlls" />
+      <root url="file://$PROJECT_DIR$/../slick/dlls" />
+      <root url="file://$PROJECT_DIR$/../slick/dlls" />
+      <root url="file://$PROJECT_DIR$/../slick/dlls" />
+      <root url="file://$PROJECT_DIR$/../slick/dlls" />
+      <root url="file://$PROJECT_DIR$/../slick/dlls" />
+      <root url="file://$PROJECT_DIR$/../slick/dlls" />
+      <root url="file://$PROJECT_DIR$/../slick/dlls" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../slick/src" />
+      <root url="file://$PROJECT_DIR$/../slick/tools" />
+    </SOURCES>
+  </library>
+</component>
